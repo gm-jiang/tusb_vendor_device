@@ -1,0 +1,6 @@
+## IDF Component Manager Manifest File
+dependencies:
+  esp_tinyusb:
+    version: "^1"
+    override_path: "../components_tinyusb/esp_tinyusb"
+  idf: "^5.0"
